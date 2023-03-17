@@ -172,14 +172,7 @@ If you hire me, I will do my best. Warmest regards.<br><br>
 </a>
 </p>
 <hr>
-<p align="center" dir="auto">
-    <a href="mailto:webstar0103@gmail.com">
-        <img src="https://camo.githubusercontent.com/4544475f9310355f06f07cc28014c8c8a763c9cde118a372b97e439a76bef2c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676f6f676c652d2532333030616365652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c65266c6f676f436f6c6f723d7768697465" alt="google" data-canonical-src="https://img.shields.io/badge/google-%2300acee.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" style="max-width: 100%;">
-    </a>
-    <a href="https://join.skype.com/invite/vud3ACU9GMYe" rel="nofollow">
-        <img src="https://camo.githubusercontent.com/b3c814e9ecd20bca56c3c99bb0317b1bcd82d046c0b4a4717423e95c6352fc0f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f736b7970652d2532333245383746422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d736b797065266c6f676f436f6c6f723d7768697465" alt="skype" data-canonical-src="https://img.shields.io/badge/skype-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=skype&amp;logoColor=white" style="max-width: 100%;">
-    </a>
-</p>
+
 <p align="center">
   <a href="https://github.com/webstar0103?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/webstar0103"/></a>
