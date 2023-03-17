@@ -2,7 +2,7 @@
 ![spectra-program-management-side-1024x576](https://user-images.githubusercontent.com/115201845/211274405-10db223b-ecb0-4d38-ab43-e172f5ec6e1b.jpg)
 
 <p>
-As a Professional developer who has 7 years of rich experience in web and mobile development and can handle all the web and mobile applications including backend & frontend and I can provide continuous support in the future.<br>
+As a Professional developer who has 4 years of rich experience in web and mobile development and can handle all the web and mobile applications including backend & frontend and I can provide continuous support in the future.<br>
 Always I embrace new tech and everyone’s opinion is welcome and expected, and also To provide Best solutions perfectly, I'm attentive to the architecture of the Project, clean code, product design, continuous integration, task prioritization, and automatic deployment, Project Deadline.<br>
 My Goal is to give my clients over 100% satisfaction and to implement your ideas real so that make your business thrive and grow.<br>
 </p>
