@@ -20,7 +20,7 @@ If you hire me, I will do my best. Warmest regards.<br><br>
 <p align="center"> 
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+<img src="https://camo.githubusercontent.com/cbb0ed4ed73eb0bdf880019fe4fd13e0e0b0812435f11ac0d920c8f523a8d8d0/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="react" width="40" height="40"/> 
 </a>
 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer">
