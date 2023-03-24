@@ -126,9 +126,9 @@ If you hire me, I will do my best. Warmest regards.<br><br>
 <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> 
 </a> 
 
-<a href="https://symfony.com" target="_blank" rel="noreferrer">
-<img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
-</a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7659f246bfe0c709dd396799463f073b97d55fc4c2a884ba27005389fac45b73/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6772617068716c2d69636f6e2e737667">
+  <img src="https://camo.githubusercontent.com/7659f246bfe0c709dd396799463f073b97d55fc4c2a884ba27005389fac45b73/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6772617068716c2d69636f6e2e737667" alt="icon" width="40" height="40">
+  </a>
 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
@@ -153,10 +153,6 @@ If you hire me, I will do my best. Warmest regards.<br><br>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
 </a> 
-
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7659f246bfe0c709dd396799463f073b97d55fc4c2a884ba27005389fac45b73/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6772617068716c2d69636f6e2e737667">
-  <img src="https://camo.githubusercontent.com/7659f246bfe0c709dd396799463f073b97d55fc4c2a884ba27005389fac45b73/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6772617068716c2d69636f6e2e737667" alt="icon" width="40" height="40">
-  </a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2ecad22021fc13e37458a8d2b508a47352c096930f163927cb191353106f9309/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667">
   <img src="https://camo.githubusercontent.com/2ecad22021fc13e37458a8d2b508a47352c096930f163927cb191353106f9309/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" alt="icon" width="40" height="40"></a>
