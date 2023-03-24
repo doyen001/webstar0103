@@ -66,6 +66,10 @@ If you hire me, I will do my best. Warmest regards.<br><br>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a>
+  
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fb82c3b39c13524bf7bd5e88e39354b3b9d74ea75608e97b29f39e7b5aa72410/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667">
+  <img src="https://camo.githubusercontent.com/fb82c3b39c13524bf7bd5e88e39354b3b9d74ea75608e97b29f39e7b5aa72410/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" alt="icon" width="40" height="40">
+</a>
 
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> 
@@ -81,10 +85,6 @@ If you hire me, I will do my best. Warmest regards.<br><br>
 
 <a href="https://dart.dev" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-</a>
-
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fb82c3b39c13524bf7bd5e88e39354b3b9d74ea75608e97b29f39e7b5aa72410/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667">
-  <img src="https://camo.githubusercontent.com/fb82c3b39c13524bf7bd5e88e39354b3b9d74ea75608e97b29f39e7b5aa72410/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" alt="icon" width="40" height="40">
 </a>
 
 <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
