@@ -104,10 +104,7 @@ If you hire me, I will do my best. Warmest regards.<br><br>
       <br>Nodejs
       </td>
       
-    <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/05a53d5a581a9877f61cf0d80b5b93ccfebdca3a414d0d943287552639be18f6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706870"><img src="https://camo.githubusercontent.com/05a53d5a581a9877f61cf0d80b5b93ccfebdca3a414d0d943287552639be18f6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706870" width="48" height="48" alt="PHP" data-canonical-src="https://skillicons.dev/icons?i=php" style="max-width: 100%;"></a>
-      <br>PHP
-    </td>
+    
             <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a84b921a468b7756774d8cdbefeaf74db66bd4452392162b76b9845cd7f58301/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465"><img src="https://camo.githubusercontent.com/a84b921a468b7756774d8cdbefeaf74db66bd4452392162b76b9845cd7f58301/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465" width="48" height="48" alt="VsCode" data-canonical-src="https://skillicons.dev/icons?i=vscode" style="max-width: 100%;"></a>
       <br>VsCode
