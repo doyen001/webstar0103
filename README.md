@@ -109,22 +109,7 @@ If you hire me, I will do my best. Warmest regards.<br><br>
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a84b921a468b7756774d8cdbefeaf74db66bd4452392162b76b9845cd7f58301/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465"><img src="https://camo.githubusercontent.com/a84b921a468b7756774d8cdbefeaf74db66bd4452392162b76b9845cd7f58301/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465" width="48" height="48" alt="VsCode" data-canonical-src="https://skillicons.dev/icons?i=vscode" style="max-width: 100%;"></a>
       <br>VsCode
     </td>
-              <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/879e035de5515b8a913361f4b3c84927540232993db8fbd906bdc1f81f98c19d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d776f72647072657373"><img src="https://camo.githubusercontent.com/879e035de5515b8a913361f4b3c84927540232993db8fbd906bdc1f81f98c19d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d776f72647072657373" width="48" height="48" alt="WordPress" data-canonical-src="https://skillicons.dev/icons?i=wordpress" style="max-width: 100%;"></a>
-      <br>WordPress
-    </td>
-              <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fca59a5a96d304d533795c7a6b78ad67a6ea3f43a0be9759f73980ec50d2cf41/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d767565"><img src="https://camo.githubusercontent.com/fca59a5a96d304d533795c7a6b78ad67a6ea3f43a0be9759f73980ec50d2cf41/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d767565" width="48" height="48" alt="Vue" data-canonical-src="https://skillicons.dev/icons?i=vue" style="max-width: 100%;"></a>
-      <br>Vue
-    </td>
-              <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/39a4393b0cef3c2b09b4e57ea2b8ba02b3f6af3c628943378d517d79f3f076ff/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d73617373"><img src="https://camo.githubusercontent.com/39a4393b0cef3c2b09b4e57ea2b8ba02b3f6af3c628943378d517d79f3f076ff/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d73617373" width="48" height="48" alt="Sass" data-canonical-src="https://skillicons.dev/icons?i=sass" style="max-width: 100%;"></a>
-      <br>Sass
-    </td>
-              <td align="center" width="96">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/039c50e13af47de36ce0dec10f18e82f274b845440486760ecbf47dc2ac754b7/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6772617068716c"><img src="https://camo.githubusercontent.com/039c50e13af47de36ce0dec10f18e82f274b845440486760ecbf47dc2ac754b7/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6772617068716c" width="48" height="48" alt="MySQL" data-canonical-src="https://skillicons.dev/icons?i=graphql" style="max-width: 100%;"></a>
-      <br>GraphQL
-    </td>
+              
     <td align="center" width="96">
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0ac523e295393e5fb91b13ed8e2bf2cf1bc9669ef91cbe6eaab903a149213087/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573"><img src="https://camo.githubusercontent.com/0ac523e295393e5fb91b13ed8e2bf2cf1bc9669ef91cbe6eaab903a149213087/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573" width="48" height="48" alt="PostgreSQL" data-canonical-src="https://skillicons.dev/icons?i=postgres" style="max-width: 100%;"></a>
       <br>PostgreSQL
